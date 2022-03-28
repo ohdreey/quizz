@@ -39,7 +39,5 @@
 </br>
 <div align="center">
   
-![smartmockups_l1b5rcr4](https://user-images.githubusercontent.com/82833380/160482565-9d72b81a-eac6-41da-9817-18ad1326fa7a.jpg)
-![smartmockups_l1b5si92](https://user-images.githubusercontent.com/82833380/160482575-fb198b2b-c431-498c-b4bb-6e9d25ef0508.jpg)
 ![smartmockups_l1b5si92](https://user-images.githubusercontent.com/82833380/160482830-8a850752-7f01-48bb-a92c-9b8bdb5b1054.jpg)
 ![smartmockups_l1b5rcr4](https://user-images.githubusercontent.com/82833380/160482838-d4a91f54-6d97-406c-9a50-f131840d0ee7.jpg)
