@@ -22,11 +22,11 @@
 
 
 <br/>
-<h2> Entrainement JS![smartmockups_l1b5rcr4](https://user-images.githubusercontent.com/82833380/160482318-8e99c2d0-29e8-4d0b-96ee-db311b6dcdd5.jpg)
-![smartmockups_l1b5si92](https://user-images.githubusercontent.com/82833380/160482326-d861f80f-ae72-4a19-bdc8-4cb8f034a2ec.jpg)
+<h2> Entrainement JS!
+ 
  </h2>
 
-<p>Réaliser un quiz en HTML CSS JS vanilla.</p>
+<p>Réalisation d'un quiz en HTML CSS JS vanilla pour m'entraîner et découvrir de nouvelles fonction en js.</p>
 <br/>
 
 <h2>Dans le répertoire du projet, vous pouvez exécuter :</h2>
@@ -38,3 +38,5 @@
 
 </br>
 <div align="center">
+![smartmockups_l1b5rcr4](https://user-images.githubusercontent.com/82833380/160482565-9d72b81a-eac6-41da-9817-18ad1326fa7a.jpg)
+![smartmockups_l1b5si92](https://user-images.githubusercontent.com/82833380/160482575-fb198b2b-c431-498c-b4bb-6e9d25ef0508.jpg)
